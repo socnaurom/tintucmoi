@@ -1,0 +1,5 @@
+{
+  "source": "/:slug",
+  "destination": "https://tinhay.queenmobile.store/graphql/:slug",
+  "statusCode": 301
+}
